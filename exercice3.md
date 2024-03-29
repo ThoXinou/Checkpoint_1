@@ -13,7 +13,7 @@ créer un fichier `.gitignore` et l'éditer en indiquant le texte suivant `*.pdf
 
 ### 5. Donne la(les) ligne(s) de commande(s) bash pour afficher le texte suivant :
 ```bash
-echo : "Malgré le prix élevé de 100$, il a dit "Bonjour !" au vendeur :"
+echo "Malgré le prix élevé de 100$, il a dit "Bonjour !" au vendeur :"
 echo "- "Bonjour est-ce que ce clavier fonctionne bien ?""
 echo "- "Evidemment ! On peut tout écrire avec, que ce soit des pipe | ou bien des backslash \\ !""
 echo "- "Même des tildes ~ ?""
