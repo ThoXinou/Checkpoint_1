@@ -20,6 +20,9 @@ echo "- "Même des tildes ~ ?""
 echo "- "Evidemment !""
 ```
 
+**ou**  
+créer un fichier texte avec la commande `touch file.txt` , l'éditer avec le texte de l'énoncé, puis éxécuter la commande `cat file.txt`
+
 ### 6. La commande jobs -l donne le résultat ci-dessous :
 ```bash
 wilder@Ubuntu:~$ jobs -l
